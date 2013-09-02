@@ -87,10 +87,13 @@ ul.tabs
 	margin-left: 3em;
 }
 
-#picture_div [
-	float: left;
-}
-
-.home_content {
+.home_content{
 	margin: auto;
 }
+
+.images {
+	height:32px;
+	padding-left:1em;
+}
+
+
